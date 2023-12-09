@@ -1,0 +1,104 @@
+
+[
+  {
+    "img1": "https://i.ibb.co/bsRV591/pexels-hakim-santoso-3634741.jpg",
+    "img2": "https://i.ibb.co/V2jRkgN/pexels-pixabay-271631.jpg",
+    "img3": "https://i.ibb.co/87nzGTj/pexels-jean-van-der-meulen-1457847.jpg",
+    "type": "Deluxe Room",
+    "rent": 1200,
+    "room_size": 25,
+    "room_no":1008,
+    "description": ""
+    "offers": "5"
+  },
+  {
+    "img1": "https://i.ibb.co/zsnK03b/pexels-pixabay-210265.jpg",
+    "img2": "https://i.ibb.co/HKQwnzL/pexels-julie-aagaard-2467285.jpg",
+    "img3": "https://i.ibb.co/wJXJtL9/pexels-max-rahubovskiy-7031883.jpg",
+    "type": "Suite Room",
+    "rent": 2900,
+    "room_size": 40,
+    "room_no":1006,
+    "offers": ""
+  },
+  {
+    "img1": "https://i.ibb.co/cwZ0HXv/pexels-pixabay-262048.jpg",
+    "img2": "https://i.ibb.co/Rpdm4Rm/pexels-jean-van-der-meulen-1457842.jpg",
+    "img3": "https://i.ibb.co/2PY2tFJ/pexels-quark-studio-2507016.jpg",
+    "type": "Family Room",
+    "rent": 1500,
+    "room_size": 40,
+    "room_no":1007,
+    "offers": ""
+  },
+  {
+    "img1": "https://i.ibb.co/2W0wjyW/pexels-engin-akyurt-2725675.jpg",
+    "img2": "https://i.ibb.co/HKQwnzL/pexels-julie-aagaard-2467285.jpg",
+    "img3": "https://i.ibb.co/V2jRkgN/pexels-pixabay-271631.jpg",
+    "rent": 1100,
+    "type": "Classic Room",
+    "room_size": 28,
+    "room_no":1002,
+    "offers": ""
+  },
+  {
+    "img1": "https://i.ibb.co/fG49dHn/pexels-pixabay-271624.jpg",
+    "img2": "https://i.ibb.co/3m1dQ2C/pexels-andrew-neel-5860599.jpg",
+    "img3": "https://i.ibb.co/87nzGTj/pexels-jean-van-der-meulen-1457847.jpg",
+    "rent": 1300,
+    "type":"Luxury Room",
+    "room_size": 30,
+    "room_no":1011,
+    "offers": ""
+  },
+  {
+    "img1": "https://i.ibb.co/3dbcJFs/pexels-pixabay-237371.jpg",
+    "img2": "https://i.ibb.co/hFPHrzM/pexels-matthis-volquardsen-2203743.jpg",
+    "img3": "https://i.ibb.co/Rpdm4Rm/pexels-jean-van-der-meulen-1457842.jpg",
+    "rent": 1950,
+    "type":"Family Room",
+    "room_size": 40,
+    "room_no":1005,
+    "offers": "10"
+  },
+  {
+    "img1": "https://i.ibb.co/jWfG16K/pexels-pixabay-210604.jpg",
+    "img2": "https://i.ibb.co/HKQwnzL/pexels-julie-aagaard-2467285.jpg",
+    "img3": "https://i.ibb.co/V2jRkgN/pexels-pixabay-271631.jpg",
+    "rent": 1250,
+    "type":"Classic Room",
+    "room_size": 25,
+    "room_no":1003,
+    "offers": "5"
+  },
+  {
+    "img1": "https://i.ibb.co/vYv1c8r/pexels-elina-sazonova-1838554.jpg",
+    "img2": "https://i.ibb.co/V2jRkgN/pexels-pixabay-271631.jpg",
+    "img3": "https://i.ibb.co/wJXJtL9/pexels-max-rahubovskiy-7031883.jpg",
+    "rent": 1050,
+    "type":"Luxury Room",
+    "room_size": 30,
+    "room_no":1004,
+    "offers": ""
+  },
+  {
+    "img1": "https://i.ibb.co/w7cJ4F4/pexels-vecislavas-popa-1571450.jpg",
+    "img2": "https://i.ibb.co/cxZ7kbJ/pexels-pixabay-271639.jpg",
+    "img3": "https://i.ibb.co/3m1dQ2C/pexels-andrew-neel-5860599.jpg",
+    "rent": 1400,
+    "type":"Deluxe Room",
+    "room_size": 28,
+    "room_no":1010,
+    "offers": ""
+  },
+  {
+    "img1": "https://i.ibb.co/fG49dHn/pexels-pixabay-271624.jpg",
+    "img2": "https://i.ibb.co/Rpdm4Rm/pexels-jean-van-der-meulen-1457842.jpg",
+    "img3": "https://i.ibb.co/2PY2tFJ/pexels-quark-studio-2507016.jpg",
+    "rent": 1080,
+    "type":"Suite Room",
+    "room_size": 40,
+    "room_no":1012,
+    "offers": "10"
+  }
+]
